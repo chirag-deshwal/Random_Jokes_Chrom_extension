@@ -1,0 +1,41 @@
+/** Creating the stylish rounded card */
+
+
+.card {
+    margin: 25px;
+    width: 350px ;
+    box-shadow: 0 15px 25px rgba(129, 124, 124, 0.2);
+    height : auto;
+    border-radius: 28px;
+    backdrop-filter: blur(14px);
+    background-color: rgba(255, 255, 255, 0.452);
+    padding: 25px;
+}
+
+
+body {
+    display: inline;
+    background-image: url("icons/macos_wallpaper.jpg");
+}
+
+/* .button {
+    background-color: none;
+    color: rgb(255, 255, 255);
+    border-radius: 60%;
+} */
+
+.translateBtn {
+    display: none;
+}
+
+.jokeElement:hover + .jokeElement, .translateBtn:hover {
+    display: inline-block;
+}
+
+
+h1 {
+    color: rgb(0, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: auto;
+}

@@ -1,0 +1,16 @@
+{
+    "name" : "Random Jokes",
+    "version" : "0.0.0.11",
+    "manifest_version" : 3,
+
+    "action" : {
+        "default_popup": "homescreen.html"
+    },
+
+    "icons" : {
+        "128" : "icons/smile.png"
+    }
+
+
+}
+
