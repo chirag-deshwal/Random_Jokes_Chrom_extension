@@ -21,5 +21,3 @@ fetch("https://icanhazdadjoke.com/slack")
 
 
 
-
-
